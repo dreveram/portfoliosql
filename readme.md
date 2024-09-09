@@ -1,0 +1,1 @@
+Este proyecto contiene una serie de consultas SQL diseñadas para resolver diferentes tipos de problemas y casos de uso comunes en la gestión y manipulación de bases de datos. Las consultas están orientadas a explorar y extraer datos de manera eficiente, cubriendo aspectos como la agregación, clasificación, y análisis de datos.
